@@ -1,3 +1,4 @@
+-- Imagine turning neovim into a full blown ide lol, can't be me.
 -- Plugin management
 local Plug = vim.fn['plug#']
 vim.call('plug#begin')
